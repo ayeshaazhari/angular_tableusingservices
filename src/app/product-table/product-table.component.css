@@ -1,0 +1,11 @@
+table tr {
+  width:100%;
+}
+
+thead td {
+  font-weight:bolder;
+}
+
+td {
+  padding: 20px;
+}
